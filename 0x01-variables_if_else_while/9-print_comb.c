@@ -10,7 +10,7 @@ int main(void)
 	int n;
 
 	for (n = 0; n < 30; n++)
-	i{
+	{
 		putchar(n + '0');
 		if (n < 9)
 		{
